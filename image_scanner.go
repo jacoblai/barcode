@@ -37,7 +37,7 @@ import (
 	"runtime"
 	"unsafe"
 
-	"gocv.io/x/gocv"
+	"github.com/jacoblai/gocv"
 )
 
 // #include <zbar.h>
